@@ -27,12 +27,12 @@
     <div class="row justify-content-evenly rounded-5">
       <div class="col-5">
         <div class="cover">
-          <h2> {{ visitors.length }} Pengunjung </h2>
+          <h2> 14 Pengunjung </h2>
         </div>
       </div>
       <div class="col-5">
         <div class="cover1">
-          <h2> {{ books.length }} Buku</h2>
+          <h2> 20 Buku</h2>
         </div>
       </div>
     </div>
