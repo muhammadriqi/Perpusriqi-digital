@@ -32,7 +32,7 @@
       </div>
       <div class="col-5">
         <div class="cover1">
-          <h2>3 Buku</h2>
+          <h2> {{ books.length }} Buku</h2>
         </div>
       </div>
     </div>
