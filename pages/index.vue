@@ -27,7 +27,7 @@
     <div class="row justify-content-evenly rounded-5">
       <div class="col-5">
         <div class="cover">
-          <h2> 1 Pengunjung </h2>
+          <h2> {{ visitors.length }} Pengunjung </h2>
         </div>
       </div>
       <div class="col-5">
